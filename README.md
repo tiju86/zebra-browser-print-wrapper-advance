@@ -1,4 +1,4 @@
-# Zebra Browser Print Wrapper
+# Zebra Browser Print Wrapper Advance
 
 This package is a wrapper for the [Zebra Browser Print](https://www.zebra.com/la/es/support-downloads/printer-software/by-request-software.html#browser-print) and allows you to easily integrate your Zebra printers with web applications like (ReactJS).
 
